@@ -1,0 +1,54 @@
+body {
+    font-family: Impact, sans-serif;
+}
+
+#header-background {
+    background-color: transparent;
+}
+
+h1 {
+    color: white;
+}
+
+.header-text {
+    color: white;
+    font-family: arial;
+
+}
+
+#header-text {
+    color: white;
+    font-family: arial;
+}
+
+#header-button {
+    background-color: blue;
+    color: white
+}
+
+button:hover {
+    background-color: white;
+}
+
+.alert-container {
+
+}
+
+.callout-container {
+    height: 40%;
+    width: 100%;
+    background: url("https://pixabay.com/get/g1a37a6769ffb010f6993ec17eba08ff39fe6c5b6762f67006afb01a14edac7def39f3613c3ead55b1de7f35899ca9da3_1280.jpg") 
+    no-repeat fixed;
+}
+
+.quotes-container {
+
+}
+
+.features-container {
+
+}
+
+
+
+
